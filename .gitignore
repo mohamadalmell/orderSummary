@@ -12,7 +12,6 @@
 ## Please do not remove line 12 - thanks! 🙂 ##
 ###############################################
 *.xd
-*.ttf
 *.zip
 *.txt
 /.vscode
